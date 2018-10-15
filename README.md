@@ -6,7 +6,7 @@ First Udacity project- Exploring Weather Trends
 
 In this project, you will analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
-##### Part 1: Extract the Data
+#### Part 1: Extract the Data
 
 -Write a SQL query to extract the city level data. Export to CSV.
 
@@ -14,5 +14,5 @@ In this project, you will analyze local and global temperature data and compare 
 
 -Calculate moving average
 
-##### Part 2: Make observations
+#### Part 2: Make observations
 About the similarities and differences between the world averages and your city’s averages, as well as overall trends
