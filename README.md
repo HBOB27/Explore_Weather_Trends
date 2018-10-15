@@ -9,7 +9,9 @@ In this project, you will analyze local and global temperature data and compare 
 ##### Part 1: Extract the Data
 
 -Write a SQL query to extract the city level data. Export to CSV.
+
 -Write a SQL query to extract the global data. Export to CSV.
+
 -Calculate moving average
 
 ##### Part 2: Make observations
